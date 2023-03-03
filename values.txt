@@ -1,2 +1,6 @@
 # As it was not mentioned, which values has to be listed.
 # i'm leaving it as blank.
+
+
+
+# value of Innovation
